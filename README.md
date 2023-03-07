@@ -83,12 +83,18 @@ spring:
 ```
 
 ### :notebook: To-do list
-- [ ] Fazer o fork do projeto
-- [ ] Implementar solução
-- [ ] Enviar link do projeto
+- [X] Fazer o fork do projeto
+- [X] Implementar solução
+- [X] Enviar link do projeto
 
 :information_source: _Sinta-se livre para incluir quaisquer observações que achar necessário_
 
 ---
 
 _O desafio acima foi cuidadosamente construído para propósitos de avaliação apenas._
+
+### Observações do candidato: 
+
+Teste unitários adicionados e documentação via Swagger.
+
+
